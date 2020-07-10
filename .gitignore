@@ -340,5 +340,9 @@ ASALocalRun/
 healthchecksdb
 
 
-.vcxproj
-.vcsproj*
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.o
+*.a
+g
